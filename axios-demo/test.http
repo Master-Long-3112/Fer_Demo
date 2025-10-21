@@ -1,0 +1,8 @@
+###
+GET http://localhost:9999/Teacher?ClassCode=CLS01
+###
+GET http://localhost:9999/Student
+###
+GET http://localhost:9999/Class
+###
+GET http://localhost:9999/Student?StudentID=S0029

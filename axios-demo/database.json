@@ -1,0 +1,3104 @@
+{
+  "Class": [
+    {
+      "ClassCode": "CLS01",
+      "RoomNo": "R001",
+      "id": "4fff"
+    },
+    {
+      "ClassCode": "CLS02",
+      "RoomNo": "R002",
+      "id": "de56"
+    },
+    {
+      "ClassCode": "CLS03",
+      "RoomNo": "R003",
+      "id": "feeb"
+    },
+    {
+      "ClassCode": "CLS04",
+      "RoomNo": "R004",
+      "id": "10c5"
+    },
+    {
+      "ClassCode": "CLS05",
+      "RoomNo": "R005",
+      "id": "8cf6"
+    }
+  ],
+  "Teacher": [
+    {
+      "TeacherID": "T002",
+      "FirstName": "TeacherF2",
+      "LastName": "TeacherL2",
+      "Email": "teacher2@school.edu",
+      "PhoneNumber": 3429691861,
+      "Subjects": [
+        "CHEM101",
+        "ENG101"
+      ],
+      "ClassCode": "CLS01",
+      "id": "7aa4"
+    },
+    {
+      "TeacherID": "T003",
+      "FirstName": "TeacherF3",
+      "LastName": "TeacherL3",
+      "Email": "teacher3@school.edu",
+      "PhoneNumber": 3965504384,
+      "Subjects": [
+        "PHY101",
+        "HIS101"
+      ],
+      "ClassCode": "CLS01",
+      "id": "b03e"
+    },
+    {
+      "TeacherID": "T004",
+      "FirstName": "TeacherF4",
+      "LastName": "TeacherL4",
+      "Email": "teacher4@school.edu",
+      "PhoneNumber": 9762081285,
+      "Subjects": [
+        "ENG101",
+        "PHY101"
+      ],
+      "ClassCode": "CLS02",
+      "id": "e2f3"
+    },
+    {
+      "TeacherID": "T005",
+      "FirstName": "TeacherF5",
+      "LastName": "TeacherL5",
+      "Email": "teacher5@school.edu",
+      "PhoneNumber": 8471201842,
+      "Subjects": [
+        "COMP101",
+        "PHY101"
+      ],
+      "ClassCode": "CLS02",
+      "id": "5bfa"
+    },
+    {
+      "TeacherID": "T006",
+      "FirstName": "TeacherF6",
+      "LastName": "TeacherL6",
+      "Email": "teacher6@school.edu",
+      "PhoneNumber": 4632836884,
+      "Subjects": [
+        "MATH101",
+        "HIS101"
+      ],
+      "ClassCode": "CLS02",
+      "id": "fcc9"
+    },
+    {
+      "TeacherID": "T007",
+      "FirstName": "TeacherF7",
+      "LastName": "TeacherL7",
+      "Email": "teacher7@school.edu",
+      "PhoneNumber": 1920609238,
+      "Subjects": [
+        "ENG101",
+        "CHEM101"
+      ],
+      "ClassCode": "CLS03",
+      "id": "4648"
+    },
+    {
+      "TeacherID": "T008",
+      "FirstName": "TeacherF8",
+      "LastName": "TeacherL8",
+      "Email": "teacher8@school.edu",
+      "PhoneNumber": 8543100523,
+      "Subjects": [
+        "PHY101",
+        "CHEM101"
+      ],
+      "ClassCode": "CLS03",
+      "id": "2ea1"
+    },
+    {
+      "TeacherID": "T009",
+      "FirstName": "TeacherF9",
+      "LastName": "TeacherL9",
+      "Email": "teacher9@school.edu",
+      "PhoneNumber": 7902123429,
+      "Subjects": [
+        "PHY101",
+        "MATH101"
+      ],
+      "ClassCode": "CLS03",
+      "id": "98af"
+    },
+    {
+      "TeacherID": "T010",
+      "FirstName": "TeacherF10",
+      "LastName": "TeacherL10",
+      "Email": "teacher10@school.edu",
+      "PhoneNumber": 7222036833,
+      "Subjects": [
+        "PHY101",
+        "ENG101"
+      ],
+      "ClassCode": "CLS04",
+      "id": "a180"
+    },
+    {
+      "TeacherID": "T011",
+      "FirstName": "TeacherF11",
+      "LastName": "TeacherL11",
+      "Email": "teacher11@school.edu",
+      "PhoneNumber": 9705721183,
+      "Subjects": [
+        "PHY101",
+        "COMP101"
+      ],
+      "ClassCode": "CLS04",
+      "id": "4395"
+    },
+    {
+      "TeacherID": "T012",
+      "FirstName": "TeacherF12",
+      "LastName": "TeacherL12",
+      "Email": "teacher12@school.edu",
+      "PhoneNumber": 1330286401,
+      "Subjects": [
+        "MATH101",
+        "PHY101"
+      ],
+      "ClassCode": "CLS04",
+      "id": "016d"
+    },
+    {
+      "TeacherID": "T013",
+      "FirstName": "TeacherF13",
+      "LastName": "TeacherL13",
+      "Email": "teacher13@school.edu",
+      "PhoneNumber": 2006560788,
+      "Subjects": [
+        "COMP101",
+        "CHEM101"
+      ],
+      "ClassCode": "CLS05",
+      "id": "fc09"
+    },
+    {
+      "TeacherID": "T014",
+      "FirstName": "TeacherF14",
+      "LastName": "TeacherL14",
+      "Email": "teacher14@school.edu",
+      "PhoneNumber": 8238778161,
+      "Subjects": [
+        "MATH101",
+        "HIS101"
+      ],
+      "ClassCode": "CLS05",
+      "id": "5764"
+    },
+    {
+      "TeacherID": "T015",
+      "FirstName": "TeacherF15",
+      "LastName": "TeacherL15",
+      "Email": "teacher15@school.edu",
+      "PhoneNumber": 5489104731,
+      "Subjects": [
+        "MATH101",
+        "CHEM101"
+      ],
+      "ClassCode": "CLS05",
+      "id": "921b"
+    },
+    {
+      "id": "4562",
+      "TeacherID": "T001",
+      "FirstName": "dsgf",
+      "LastName": "long",
+      "Email": "long@gmail",
+      "PhoneNumber": "0623523432",
+      "Subjects": [
+        "MATH101",
+        "ENG101"
+      ]
+    }
+  ],
+  "Subject": [
+    {
+      "SubjectCode": "MATH101",
+      "SubjectName": "Mathematics",
+      "id": "5ffb"
+    },
+    {
+      "SubjectCode": "PHY101",
+      "SubjectName": "Physics",
+      "id": "1144"
+    },
+    {
+      "SubjectCode": "CHEM101",
+      "SubjectName": "Chemistry",
+      "id": "f4b4"
+    },
+    {
+      "SubjectCode": "ENG101",
+      "SubjectName": "English",
+      "id": "3abd"
+    },
+    {
+      "SubjectCode": "HIS101",
+      "SubjectName": "History",
+      "id": "3a5d"
+    },
+    {
+      "SubjectCode": "COMP101",
+      "SubjectName": "Computer Science",
+      "id": "8e20"
+    }
+  ],
+  "Student": [
+    {
+      "StudentID": "S0001",
+      "FirstName": "StudentF1",
+      "LastName": "StudentL1",
+      "Email": "student1@school.edu",
+      "PhoneNumber": 4128518994,
+      "ClassCode": "CLS01",
+      "id": "b19d"
+    },
+    {
+      "StudentID": "S0002",
+      "FirstName": "StudentF2",
+      "LastName": "StudentL2",
+      "Email": "student2@school.edu",
+      "PhoneNumber": 4821250984,
+      "ClassCode": "CLS01",
+      "id": "52ca"
+    },
+    {
+      "StudentID": "S0003",
+      "FirstName": "StudentF3",
+      "LastName": "StudentL3",
+      "Email": "student3@school.edu",
+      "PhoneNumber": 5823963760,
+      "ClassCode": "CLS01",
+      "id": "8a19"
+    },
+    {
+      "StudentID": "S0004",
+      "FirstName": "StudentF4",
+      "LastName": "StudentL4",
+      "Email": "student4@school.edu",
+      "PhoneNumber": 7496296516,
+      "ClassCode": "CLS01",
+      "id": "efb8"
+    },
+    {
+      "StudentID": "S0005",
+      "FirstName": "StudentF5",
+      "LastName": "StudentL5",
+      "Email": "student5@school.edu",
+      "PhoneNumber": 3657632814,
+      "ClassCode": "CLS01",
+      "id": "5b01"
+    },
+    {
+      "StudentID": "S0006",
+      "FirstName": "StudentF6",
+      "LastName": "StudentL6",
+      "Email": "student6@school.edu",
+      "PhoneNumber": 2738295570,
+      "ClassCode": "CLS01",
+      "id": "2a87"
+    },
+    {
+      "StudentID": "S0007",
+      "FirstName": "StudentF7",
+      "LastName": "StudentL7",
+      "Email": "student7@school.edu",
+      "PhoneNumber": 7622567825,
+      "ClassCode": "CLS01",
+      "id": "aeb5"
+    },
+    {
+      "StudentID": "S0008",
+      "FirstName": "StudentF8",
+      "LastName": "StudentL8",
+      "Email": "student8@school.edu",
+      "PhoneNumber": 3541484566,
+      "ClassCode": "CLS01",
+      "id": "32f1"
+    },
+    {
+      "StudentID": "S0009",
+      "FirstName": "StudentF9",
+      "LastName": "StudentL9",
+      "Email": "student9@school.edu",
+      "PhoneNumber": 4507893401,
+      "ClassCode": "CLS01",
+      "id": "eb17"
+    },
+    {
+      "StudentID": "S0010",
+      "FirstName": "StudentF10",
+      "LastName": "StudentL10",
+      "Email": "student10@school.edu",
+      "PhoneNumber": 6750011161,
+      "ClassCode": "CLS01",
+      "id": "51ff"
+    },
+    {
+      "StudentID": "S0011",
+      "FirstName": "StudentF11",
+      "LastName": "StudentL11",
+      "Email": "student11@school.edu",
+      "PhoneNumber": 9955687619,
+      "ClassCode": "CLS01",
+      "id": "12cf"
+    },
+    {
+      "StudentID": "S0012",
+      "FirstName": "StudentF12",
+      "LastName": "StudentL12",
+      "Email": "student12@school.edu",
+      "PhoneNumber": 8075651670,
+      "ClassCode": "CLS01",
+      "id": "f5e4"
+    },
+    {
+      "StudentID": "S0013",
+      "FirstName": "StudentF13",
+      "LastName": "StudentL13",
+      "Email": "student13@school.edu",
+      "PhoneNumber": 5261756441,
+      "ClassCode": "CLS01",
+      "id": "e9aa"
+    },
+    {
+      "StudentID": "S0014",
+      "FirstName": "StudentF14",
+      "LastName": "StudentL14",
+      "Email": "student14@school.edu",
+      "PhoneNumber": 7933022691,
+      "ClassCode": "CLS01",
+      "id": "f124"
+    },
+    {
+      "StudentID": "S0015",
+      "FirstName": "StudentF15",
+      "LastName": "StudentL15",
+      "Email": "student15@school.edu",
+      "PhoneNumber": 8598500778,
+      "ClassCode": "CLS02",
+      "id": "a7bb"
+    },
+    {
+      "StudentID": "S0016",
+      "FirstName": "StudentF16",
+      "LastName": "StudentL16",
+      "Email": "student16@school.edu",
+      "PhoneNumber": 9323944611,
+      "ClassCode": "CLS02",
+      "id": "c6fb"
+    },
+    {
+      "StudentID": "S0017",
+      "FirstName": "StudentF17",
+      "LastName": "StudentL17",
+      "Email": "student17@school.edu",
+      "PhoneNumber": 7968598606,
+      "ClassCode": "CLS02",
+      "id": "e339"
+    },
+    {
+      "StudentID": "S0018",
+      "FirstName": "StudentF18",
+      "LastName": "StudentL18",
+      "Email": "student18@school.edu",
+      "PhoneNumber": 1806761526,
+      "ClassCode": "CLS02",
+      "id": "d891"
+    },
+    {
+      "StudentID": "S0019",
+      "FirstName": "StudentF19",
+      "LastName": "StudentL19",
+      "Email": "student19@school.edu",
+      "PhoneNumber": 9763157776,
+      "ClassCode": "CLS02",
+      "id": "7c74"
+    },
+    {
+      "StudentID": "S0020",
+      "FirstName": "StudentF20",
+      "LastName": "StudentL20",
+      "Email": "student20@school.edu",
+      "PhoneNumber": 8520242062,
+      "ClassCode": "CLS02",
+      "id": "2c5d"
+    },
+    {
+      "StudentID": "S0021",
+      "FirstName": "StudentF21",
+      "LastName": "StudentL21",
+      "Email": "student21@school.edu",
+      "PhoneNumber": 4336503301,
+      "ClassCode": "CLS02",
+      "id": "d7e4"
+    },
+    {
+      "StudentID": "S0022",
+      "FirstName": "StudentF22",
+      "LastName": "StudentL22",
+      "Email": "student22@school.edu",
+      "PhoneNumber": 5521154118,
+      "ClassCode": "CLS02",
+      "id": "6e62"
+    },
+    {
+      "StudentID": "S0023",
+      "FirstName": "StudentF23",
+      "LastName": "StudentL23",
+      "Email": "student23@school.edu",
+      "PhoneNumber": 5117263858,
+      "ClassCode": "CLS02",
+      "id": "1485"
+    },
+    {
+      "StudentID": "S0024",
+      "FirstName": "StudentF24",
+      "LastName": "StudentL24",
+      "Email": "student24@school.edu",
+      "PhoneNumber": 1394440304,
+      "ClassCode": "CLS02",
+      "id": "66b3"
+    },
+    {
+      "StudentID": "S0025",
+      "FirstName": "StudentF25",
+      "LastName": "StudentL25",
+      "Email": "student25@school.edu",
+      "PhoneNumber": 9595645741,
+      "ClassCode": "CLS02",
+      "id": "0c16"
+    },
+    {
+      "StudentID": "S0026",
+      "FirstName": "StudentF26",
+      "LastName": "StudentL26",
+      "Email": "student26@school.edu",
+      "PhoneNumber": 6092623272,
+      "ClassCode": "CLS02",
+      "id": "5295"
+    },
+    {
+      "StudentID": "S0027",
+      "FirstName": "StudentF27",
+      "LastName": "StudentL27",
+      "Email": "student27@school.edu",
+      "PhoneNumber": 6271029827,
+      "ClassCode": "CLS02",
+      "id": "6608"
+    },
+    {
+      "StudentID": "S0028",
+      "FirstName": "StudentF28",
+      "LastName": "StudentL28",
+      "Email": "student28@school.edu",
+      "PhoneNumber": 3112362662,
+      "ClassCode": "CLS02",
+      "id": "8f0b"
+    },
+    {
+      "StudentID": "S0031",
+      "FirstName": "StudentF31",
+      "LastName": "StudentL31",
+      "Email": "student31@school.edu",
+      "PhoneNumber": 3889006025,
+      "ClassCode": "CLS03",
+      "id": "a04a"
+    },
+    {
+      "StudentID": "S0032",
+      "FirstName": "StudentF32",
+      "LastName": "StudentL32",
+      "Email": "student32@school.edu",
+      "PhoneNumber": 3702980788,
+      "ClassCode": "CLS03",
+      "id": "4de8"
+    },
+    {
+      "StudentID": "S0033",
+      "FirstName": "StudentF33",
+      "LastName": "StudentL33",
+      "Email": "student33@school.edu",
+      "PhoneNumber": 8153119064,
+      "ClassCode": "CLS03",
+      "id": "43bd"
+    },
+    {
+      "StudentID": "S0034",
+      "FirstName": "StudentF34",
+      "LastName": "StudentL34",
+      "Email": "student34@school.edu",
+      "PhoneNumber": 9838119926,
+      "ClassCode": "CLS03",
+      "id": "c24d"
+    },
+    {
+      "StudentID": "S0035",
+      "FirstName": "StudentF35",
+      "LastName": "StudentL35",
+      "Email": "student35@school.edu",
+      "PhoneNumber": 2164716463,
+      "ClassCode": "CLS03",
+      "id": "19de"
+    },
+    {
+      "StudentID": "S0036",
+      "FirstName": "StudentF36",
+      "LastName": "StudentL36",
+      "Email": "student36@school.edu",
+      "PhoneNumber": 4635892532,
+      "ClassCode": "CLS03",
+      "id": "1abb"
+    },
+    {
+      "StudentID": "S0037",
+      "FirstName": "StudentF37",
+      "LastName": "StudentL37",
+      "Email": "student37@school.edu",
+      "PhoneNumber": 5638895921,
+      "ClassCode": "CLS03",
+      "id": "5dbc"
+    },
+    {
+      "StudentID": "S0038",
+      "FirstName": "StudentF38",
+      "LastName": "StudentL38",
+      "Email": "student38@school.edu",
+      "PhoneNumber": 7176589624,
+      "ClassCode": "CLS03",
+      "id": "d570"
+    },
+    {
+      "StudentID": "S0039",
+      "FirstName": "StudentF39",
+      "LastName": "StudentL39",
+      "Email": "student39@school.edu",
+      "PhoneNumber": 1421802805,
+      "ClassCode": "CLS03",
+      "id": "54d5"
+    },
+    {
+      "StudentID": "S0040",
+      "FirstName": "StudentF40",
+      "LastName": "StudentL40",
+      "Email": "student40@school.edu",
+      "PhoneNumber": 7449497882,
+      "ClassCode": "CLS03",
+      "id": "355c"
+    },
+    {
+      "StudentID": "S0043",
+      "FirstName": "StudentF43",
+      "LastName": "StudentL43",
+      "Email": "student43@school.edu",
+      "PhoneNumber": 3079460577,
+      "ClassCode": "CLS04",
+      "id": "cf9d"
+    },
+    {
+      "StudentID": "S0044",
+      "FirstName": "StudentF44",
+      "LastName": "StudentL44",
+      "Email": "student44@school.edu",
+      "PhoneNumber": 7667335462,
+      "ClassCode": "CLS04",
+      "id": "153a"
+    },
+    {
+      "StudentID": "S0045",
+      "FirstName": "StudentF45",
+      "LastName": "StudentL45",
+      "Email": "student45@school.edu",
+      "PhoneNumber": 4312593510,
+      "ClassCode": "CLS04",
+      "id": "6fd5"
+    },
+    {
+      "StudentID": "S0046",
+      "FirstName": "StudentF46",
+      "LastName": "StudentL46",
+      "Email": "student46@school.edu",
+      "PhoneNumber": 3536116355,
+      "ClassCode": "CLS04",
+      "id": "f9d6"
+    },
+    {
+      "StudentID": "S0047",
+      "FirstName": "StudentF47",
+      "LastName": "StudentL47",
+      "Email": "student47@school.edu",
+      "PhoneNumber": 9332219768,
+      "ClassCode": "CLS04",
+      "id": "a593"
+    },
+    {
+      "StudentID": "S0048",
+      "FirstName": "StudentF48",
+      "LastName": "StudentL48",
+      "Email": "student48@school.edu",
+      "PhoneNumber": 3873408269,
+      "ClassCode": "CLS04",
+      "id": "1a28"
+    },
+    {
+      "StudentID": "S0049",
+      "FirstName": "StudentF49",
+      "LastName": "StudentL49",
+      "Email": "student49@school.edu",
+      "PhoneNumber": 9381754313,
+      "ClassCode": "CLS04",
+      "id": "f1d5"
+    },
+    {
+      "StudentID": "S0050",
+      "FirstName": "StudentF50",
+      "LastName": "StudentL50",
+      "Email": "student50@school.edu",
+      "PhoneNumber": 9113991161,
+      "ClassCode": "CLS04",
+      "id": "8e11"
+    },
+    {
+      "StudentID": "S0051",
+      "FirstName": "StudentF51",
+      "LastName": "StudentL51",
+      "Email": "student51@school.edu",
+      "PhoneNumber": 8276514770,
+      "ClassCode": "CLS04",
+      "id": "67da"
+    },
+    {
+      "StudentID": "S0052",
+      "FirstName": "StudentF52",
+      "LastName": "StudentL52",
+      "Email": "student52@school.edu",
+      "PhoneNumber": 8755330638,
+      "ClassCode": "CLS04",
+      "id": "2058"
+    },
+    {
+      "StudentID": "S0053",
+      "FirstName": "StudentF53",
+      "LastName": "StudentL53",
+      "Email": "student53@school.edu",
+      "PhoneNumber": 4634123236,
+      "ClassCode": "CLS04",
+      "id": "1820"
+    },
+    {
+      "StudentID": "S0054",
+      "FirstName": "StudentF54",
+      "LastName": "StudentL54",
+      "Email": "student54@school.edu",
+      "PhoneNumber": 4166337648,
+      "ClassCode": "CLS04",
+      "id": "e32d"
+    },
+    {
+      "StudentID": "S0055",
+      "FirstName": "StudentF55",
+      "LastName": "StudentL55",
+      "Email": "student55@school.edu",
+      "PhoneNumber": 3554056833,
+      "ClassCode": "CLS04",
+      "id": "4af8"
+    },
+    {
+      "StudentID": "S0056",
+      "FirstName": "StudentF56",
+      "LastName": "StudentL56",
+      "Email": "student56@school.edu",
+      "PhoneNumber": 9086898650,
+      "ClassCode": "CLS04",
+      "id": "b198"
+    },
+    {
+      "StudentID": "S0057",
+      "FirstName": "StudentF57",
+      "LastName": "StudentL57",
+      "Email": "student57@school.edu",
+      "PhoneNumber": 3803483890,
+      "ClassCode": "CLS05",
+      "id": "805f"
+    },
+    {
+      "StudentID": "S0058",
+      "FirstName": "StudentF58",
+      "LastName": "StudentL58",
+      "Email": "student58@school.edu",
+      "PhoneNumber": 7958381300,
+      "ClassCode": "CLS05",
+      "id": "f437"
+    },
+    {
+      "StudentID": "S0059",
+      "FirstName": "StudentF59",
+      "LastName": "StudentL59",
+      "Email": "student59@school.edu",
+      "PhoneNumber": 5094168861,
+      "ClassCode": "CLS05",
+      "id": "72b9"
+    },
+    {
+      "StudentID": "S0060",
+      "FirstName": "StudentF60",
+      "LastName": "StudentL60",
+      "Email": "student60@school.edu",
+      "PhoneNumber": 3223397724,
+      "ClassCode": "CLS05",
+      "id": "d8b9"
+    },
+    {
+      "StudentID": "S0061",
+      "FirstName": "StudentF61",
+      "LastName": "StudentL61",
+      "Email": "student61@school.edu",
+      "PhoneNumber": 8780840501,
+      "ClassCode": "CLS05",
+      "id": "2cf7"
+    },
+    {
+      "StudentID": "S0062",
+      "FirstName": "StudentF62",
+      "LastName": "StudentL62",
+      "Email": "student62@school.edu",
+      "PhoneNumber": 9157846397,
+      "ClassCode": "CLS05",
+      "id": "0a35"
+    },
+    {
+      "StudentID": "S0063",
+      "FirstName": "StudentF63",
+      "LastName": "StudentL63",
+      "Email": "student63@school.edu",
+      "PhoneNumber": 4162422492,
+      "ClassCode": "CLS05",
+      "id": "7591"
+    },
+    {
+      "StudentID": "S0064",
+      "FirstName": "StudentF64",
+      "LastName": "StudentL64",
+      "Email": "student64@school.edu",
+      "PhoneNumber": 9547779122,
+      "ClassCode": "CLS05",
+      "id": "b2ad"
+    },
+    {
+      "StudentID": "S0065",
+      "FirstName": "StudentF65",
+      "LastName": "StudentL65",
+      "Email": "student65@school.edu",
+      "PhoneNumber": 1056107893,
+      "ClassCode": "CLS05",
+      "id": "16df"
+    },
+    {
+      "StudentID": "S0066",
+      "FirstName": "StudentF66",
+      "LastName": "StudentL66",
+      "Email": "student66@school.edu",
+      "PhoneNumber": 1784473161,
+      "ClassCode": "CLS05",
+      "id": "936f"
+    },
+    {
+      "StudentID": "S0067",
+      "FirstName": "StudentF67",
+      "LastName": "StudentL67",
+      "Email": "student67@school.edu",
+      "PhoneNumber": 7606758351,
+      "ClassCode": "CLS05",
+      "id": "82fc"
+    },
+    {
+      "StudentID": "S0068",
+      "FirstName": "StudentF68",
+      "LastName": "StudentL68",
+      "Email": "student68@school.edu",
+      "PhoneNumber": 7555297948,
+      "ClassCode": "CLS05",
+      "id": "89de"
+    },
+    {
+      "StudentID": "S0069",
+      "FirstName": "StudentF69",
+      "LastName": "StudentL69",
+      "Email": "student69@school.edu",
+      "PhoneNumber": 2345760667,
+      "ClassCode": "CLS05",
+      "id": "4343"
+    },
+    {
+      "StudentID": "S0070",
+      "FirstName": "StudentF70",
+      "LastName": "StudentL70",
+      "Email": "student70@school.edu",
+      "PhoneNumber": 4095927837,
+      "ClassCode": "CLS05",
+      "id": "2fea"
+    },
+    {
+      "id": "f18b",
+      "StudentID": "lolhaha",
+      "FirstName": "312",
+      "LastName": "123",
+      "Email": "412@gsdg",
+      "PhoneNumber": "3423412312",
+      "ClassCode": "CLS03"
+    }
+  ],
+  "ExamResult": [
+    {
+      "ExamResultID": 1,
+      "StudentID": "S0001",
+      "SubjectCode": "MATH101",
+      "Mark": 50,
+      "Comment": "Excellent",
+      "id": "6e99"
+    },
+    {
+      "ExamResultID": 2,
+      "StudentID": "S0001",
+      "SubjectCode": "HIS101",
+      "Mark": 85,
+      "Comment": "Excellent",
+      "id": "2906"
+    },
+    {
+      "ExamResultID": 3,
+      "StudentID": "S0001",
+      "SubjectCode": "COMP101",
+      "Mark": 99,
+      "Comment": "Needs improvement",
+      "id": "9632"
+    },
+    {
+      "ExamResultID": 4,
+      "StudentID": "S0001",
+      "SubjectCode": "CHEM101",
+      "Mark": 99,
+      "Comment": "Needs improvement",
+      "id": "1cbf"
+    },
+    {
+      "ExamResultID": 5,
+      "StudentID": "S0002",
+      "SubjectCode": "CHEM101",
+      "Mark": 77,
+      "Comment": "Average",
+      "id": "76ef"
+    },
+    {
+      "ExamResultID": 6,
+      "StudentID": "S0002",
+      "SubjectCode": "ENG101",
+      "Mark": 62,
+      "Comment": "Average",
+      "id": "f495"
+    },
+    {
+      "ExamResultID": 7,
+      "StudentID": "S0002",
+      "SubjectCode": "COMP101",
+      "Mark": 85,
+      "Comment": "Average",
+      "id": "fd9f"
+    },
+    {
+      "ExamResultID": 8,
+      "StudentID": "S0002",
+      "SubjectCode": "COMP101",
+      "Mark": 88,
+      "Comment": "Average",
+      "id": "bcff"
+    },
+    {
+      "ExamResultID": 9,
+      "StudentID": "S0003",
+      "SubjectCode": "PHY101",
+      "Mark": 64,
+      "Comment": "Excellent",
+      "id": "6504"
+    },
+    {
+      "ExamResultID": 10,
+      "StudentID": "S0003",
+      "SubjectCode": "MATH101",
+      "Mark": 91,
+      "Comment": "Good",
+      "id": "bc88"
+    },
+    {
+      "ExamResultID": 11,
+      "StudentID": "S0003",
+      "SubjectCode": "PHY101",
+      "Mark": 57,
+      "Comment": "Good",
+      "id": "3aa1"
+    },
+    {
+      "ExamResultID": 12,
+      "StudentID": "S0003",
+      "SubjectCode": "HIS101",
+      "Mark": 79,
+      "Comment": "Average",
+      "id": "71b9"
+    },
+    {
+      "ExamResultID": 13,
+      "StudentID": "S0004",
+      "SubjectCode": "HIS101",
+      "Mark": 82,
+      "Comment": "Good",
+      "id": "83aa"
+    },
+    {
+      "ExamResultID": 14,
+      "StudentID": "S0004",
+      "SubjectCode": "ENG101",
+      "Mark": 77,
+      "Comment": "Good",
+      "id": "dfd3"
+    },
+    {
+      "ExamResultID": 15,
+      "StudentID": "S0004",
+      "SubjectCode": "COMP101",
+      "Mark": 91,
+      "Comment": "Needs improvement",
+      "id": "4adb"
+    },
+    {
+      "ExamResultID": 16,
+      "StudentID": "S0004",
+      "SubjectCode": "MATH101",
+      "Mark": 76,
+      "Comment": "Excellent",
+      "id": "acbd"
+    },
+    {
+      "ExamResultID": 17,
+      "StudentID": "S0005",
+      "SubjectCode": "PHY101",
+      "Mark": 64,
+      "Comment": "Excellent",
+      "id": "e504"
+    },
+    {
+      "ExamResultID": 18,
+      "StudentID": "S0005",
+      "SubjectCode": "HIS101",
+      "Mark": 62,
+      "Comment": "Good",
+      "id": "b967"
+    },
+    {
+      "ExamResultID": 19,
+      "StudentID": "S0005",
+      "SubjectCode": "ENG101",
+      "Mark": 83,
+      "Comment": "Good",
+      "id": "94bb"
+    },
+    {
+      "ExamResultID": 20,
+      "StudentID": "S0005",
+      "SubjectCode": "ENG101",
+      "Mark": 95,
+      "Comment": "Needs improvement",
+      "id": "8ac2"
+    },
+    {
+      "ExamResultID": 21,
+      "StudentID": "S0006",
+      "SubjectCode": "HIS101",
+      "Mark": 53,
+      "Comment": "Needs improvement",
+      "id": "db1c"
+    },
+    {
+      "ExamResultID": 22,
+      "StudentID": "S0006",
+      "SubjectCode": "COMP101",
+      "Mark": 92,
+      "Comment": "Good",
+      "id": "b9e3"
+    },
+    {
+      "ExamResultID": 23,
+      "StudentID": "S0006",
+      "SubjectCode": "COMP101",
+      "Mark": 60,
+      "Comment": "Good",
+      "id": "5469"
+    },
+    {
+      "ExamResultID": 24,
+      "StudentID": "S0006",
+      "SubjectCode": "ENG101",
+      "Mark": 87,
+      "Comment": "Excellent",
+      "id": "fa78"
+    },
+    {
+      "ExamResultID": 25,
+      "StudentID": "S0007",
+      "SubjectCode": "PHY101",
+      "Mark": 81,
+      "Comment": "Needs improvement",
+      "id": "28fc"
+    },
+    {
+      "ExamResultID": 26,
+      "StudentID": "S0007",
+      "SubjectCode": "COMP101",
+      "Mark": 99,
+      "Comment": "Excellent",
+      "id": "75c6"
+    },
+    {
+      "ExamResultID": 27,
+      "StudentID": "S0007",
+      "SubjectCode": "HIS101",
+      "Mark": 89,
+      "Comment": "Needs improvement",
+      "id": "b361"
+    },
+    {
+      "ExamResultID": 28,
+      "StudentID": "S0007",
+      "SubjectCode": "ENG101",
+      "Mark": 75,
+      "Comment": "Good",
+      "id": "504d"
+    },
+    {
+      "ExamResultID": 29,
+      "StudentID": "S0008",
+      "SubjectCode": "HIS101",
+      "Mark": 90,
+      "Comment": "Good",
+      "id": "5a89"
+    },
+    {
+      "ExamResultID": 30,
+      "StudentID": "S0008",
+      "SubjectCode": "ENG101",
+      "Mark": 95,
+      "Comment": "Good",
+      "id": "ebef"
+    },
+    {
+      "ExamResultID": 31,
+      "StudentID": "S0008",
+      "SubjectCode": "HIS101",
+      "Mark": 58,
+      "Comment": "Average",
+      "id": "db0d"
+    },
+    {
+      "ExamResultID": 32,
+      "StudentID": "S0008",
+      "SubjectCode": "MATH101",
+      "Mark": 94,
+      "Comment": "Excellent",
+      "id": "6350"
+    },
+    {
+      "ExamResultID": 33,
+      "StudentID": "S0009",
+      "SubjectCode": "MATH101",
+      "Mark": 58,
+      "Comment": "Good",
+      "id": "7596"
+    },
+    {
+      "ExamResultID": 34,
+      "StudentID": "S0009",
+      "SubjectCode": "PHY101",
+      "Mark": 95,
+      "Comment": "Needs improvement",
+      "id": "c02d"
+    },
+    {
+      "ExamResultID": 35,
+      "StudentID": "S0009",
+      "SubjectCode": "MATH101",
+      "Mark": 80,
+      "Comment": "Excellent",
+      "id": "a79b"
+    },
+    {
+      "ExamResultID": 36,
+      "StudentID": "S0009",
+      "SubjectCode": "ENG101",
+      "Mark": 86,
+      "Comment": "Excellent",
+      "id": "c8e0"
+    },
+    {
+      "ExamResultID": 37,
+      "StudentID": "S0010",
+      "SubjectCode": "ENG101",
+      "Mark": 54,
+      "Comment": "Excellent",
+      "id": "9ebe"
+    },
+    {
+      "ExamResultID": 38,
+      "StudentID": "S0010",
+      "SubjectCode": "MATH101",
+      "Mark": 72,
+      "Comment": "Average",
+      "id": "2276"
+    },
+    {
+      "ExamResultID": 39,
+      "StudentID": "S0010",
+      "SubjectCode": "MATH101",
+      "Mark": 98,
+      "Comment": "Excellent",
+      "id": "e006"
+    },
+    {
+      "ExamResultID": 40,
+      "StudentID": "S0010",
+      "SubjectCode": "COMP101",
+      "Mark": 98,
+      "Comment": "Average",
+      "id": "0fc7"
+    },
+    {
+      "ExamResultID": 41,
+      "StudentID": "S0011",
+      "SubjectCode": "CHEM101",
+      "Mark": 63,
+      "Comment": "Good",
+      "id": "7448"
+    },
+    {
+      "ExamResultID": 42,
+      "StudentID": "S0011",
+      "SubjectCode": "CHEM101",
+      "Mark": 96,
+      "Comment": "Excellent",
+      "id": "9303"
+    },
+    {
+      "ExamResultID": 43,
+      "StudentID": "S0011",
+      "SubjectCode": "COMP101",
+      "Mark": 56,
+      "Comment": "Good",
+      "id": "4535"
+    },
+    {
+      "ExamResultID": 44,
+      "StudentID": "S0011",
+      "SubjectCode": "ENG101",
+      "Mark": 86,
+      "Comment": "Excellent",
+      "id": "a5c3"
+    },
+    {
+      "ExamResultID": 45,
+      "StudentID": "S0012",
+      "SubjectCode": "CHEM101",
+      "Mark": 77,
+      "Comment": "Average",
+      "id": "5b98"
+    },
+    {
+      "ExamResultID": 46,
+      "StudentID": "S0012",
+      "SubjectCode": "PHY101",
+      "Mark": 93,
+      "Comment": "Average",
+      "id": "b13e"
+    },
+    {
+      "ExamResultID": 47,
+      "StudentID": "S0012",
+      "SubjectCode": "ENG101",
+      "Mark": 55,
+      "Comment": "Average",
+      "id": "7496"
+    },
+    {
+      "ExamResultID": 48,
+      "StudentID": "S0012",
+      "SubjectCode": "MATH101",
+      "Mark": 87,
+      "Comment": "Average",
+      "id": "9b08"
+    },
+    {
+      "ExamResultID": 49,
+      "StudentID": "S0013",
+      "SubjectCode": "CHEM101",
+      "Mark": 75,
+      "Comment": "Excellent",
+      "id": "eef8"
+    },
+    {
+      "ExamResultID": 50,
+      "StudentID": "S0013",
+      "SubjectCode": "HIS101",
+      "Mark": 94,
+      "Comment": "Good",
+      "id": "b3aa"
+    },
+    {
+      "ExamResultID": 51,
+      "StudentID": "S0013",
+      "SubjectCode": "HIS101",
+      "Mark": 91,
+      "Comment": "Needs improvement",
+      "id": "0bae"
+    },
+    {
+      "ExamResultID": 52,
+      "StudentID": "S0013",
+      "SubjectCode": "ENG101",
+      "Mark": 64,
+      "Comment": "Average",
+      "id": "dc51"
+    },
+    {
+      "ExamResultID": 53,
+      "StudentID": "S0014",
+      "SubjectCode": "PHY101",
+      "Mark": 88,
+      "Comment": "Excellent",
+      "id": "f8eb"
+    },
+    {
+      "ExamResultID": 54,
+      "StudentID": "S0014",
+      "SubjectCode": "PHY101",
+      "Mark": 80,
+      "Comment": "Good",
+      "id": "5226"
+    },
+    {
+      "ExamResultID": 55,
+      "StudentID": "S0014",
+      "SubjectCode": "COMP101",
+      "Mark": 77,
+      "Comment": "Average",
+      "id": "c115"
+    },
+    {
+      "ExamResultID": 56,
+      "StudentID": "S0014",
+      "SubjectCode": "ENG101",
+      "Mark": 91,
+      "Comment": "Average",
+      "id": "23d5"
+    },
+    {
+      "ExamResultID": 57,
+      "StudentID": "S0015",
+      "SubjectCode": "MATH101",
+      "Mark": 80,
+      "Comment": "Average",
+      "id": "34b5"
+    },
+    {
+      "ExamResultID": 58,
+      "StudentID": "S0015",
+      "SubjectCode": "PHY101",
+      "Mark": 59,
+      "Comment": "Needs improvement",
+      "id": "806f"
+    },
+    {
+      "ExamResultID": 59,
+      "StudentID": "S0015",
+      "SubjectCode": "CHEM101",
+      "Mark": 59,
+      "Comment": "Needs improvement",
+      "id": "bdd9"
+    },
+    {
+      "ExamResultID": 60,
+      "StudentID": "S0015",
+      "SubjectCode": "ENG101",
+      "Mark": 90,
+      "Comment": "Excellent",
+      "id": "a9b0"
+    },
+    {
+      "ExamResultID": 61,
+      "StudentID": "S0016",
+      "SubjectCode": "CHEM101",
+      "Mark": 79,
+      "Comment": "Good",
+      "id": "6e24"
+    },
+    {
+      "ExamResultID": 62,
+      "StudentID": "S0016",
+      "SubjectCode": "PHY101",
+      "Mark": 64,
+      "Comment": "Needs improvement",
+      "id": "c011"
+    },
+    {
+      "ExamResultID": 63,
+      "StudentID": "S0016",
+      "SubjectCode": "CHEM101",
+      "Mark": 64,
+      "Comment": "Excellent",
+      "id": "83e4"
+    },
+    {
+      "ExamResultID": 64,
+      "StudentID": "S0016",
+      "SubjectCode": "COMP101",
+      "Mark": 91,
+      "Comment": "Excellent",
+      "id": "1df2"
+    },
+    {
+      "ExamResultID": 65,
+      "StudentID": "S0017",
+      "SubjectCode": "CHEM101",
+      "Mark": 80,
+      "Comment": "Excellent",
+      "id": "823f"
+    },
+    {
+      "ExamResultID": 66,
+      "StudentID": "S0017",
+      "SubjectCode": "PHY101",
+      "Mark": 53,
+      "Comment": "Needs improvement",
+      "id": "415c"
+    },
+    {
+      "ExamResultID": 67,
+      "StudentID": "S0017",
+      "SubjectCode": "COMP101",
+      "Mark": 96,
+      "Comment": "Excellent",
+      "id": "a2e7"
+    },
+    {
+      "ExamResultID": 68,
+      "StudentID": "S0017",
+      "SubjectCode": "HIS101",
+      "Mark": 76,
+      "Comment": "Needs improvement",
+      "id": "5984"
+    },
+    {
+      "ExamResultID": 69,
+      "StudentID": "S0018",
+      "SubjectCode": "PHY101",
+      "Mark": 77,
+      "Comment": "Excellent",
+      "id": "a68d"
+    },
+    {
+      "ExamResultID": 70,
+      "StudentID": "S0018",
+      "SubjectCode": "COMP101",
+      "Mark": 65,
+      "Comment": "Needs improvement",
+      "id": "eb34"
+    },
+    {
+      "ExamResultID": 71,
+      "StudentID": "S0018",
+      "SubjectCode": "HIS101",
+      "Mark": 50,
+      "Comment": "Excellent",
+      "id": "f5e4"
+    },
+    {
+      "ExamResultID": 72,
+      "StudentID": "S0018",
+      "SubjectCode": "COMP101",
+      "Mark": 66,
+      "Comment": "Needs improvement",
+      "id": "5d5f"
+    },
+    {
+      "ExamResultID": 73,
+      "StudentID": "S0019",
+      "SubjectCode": "CHEM101",
+      "Mark": 58,
+      "Comment": "Good",
+      "id": "373b"
+    },
+    {
+      "ExamResultID": 74,
+      "StudentID": "S0019",
+      "SubjectCode": "ENG101",
+      "Mark": 67,
+      "Comment": "Needs improvement",
+      "id": "5be4"
+    },
+    {
+      "ExamResultID": 75,
+      "StudentID": "S0019",
+      "SubjectCode": "COMP101",
+      "Mark": 58,
+      "Comment": "Average",
+      "id": "8f90"
+    },
+    {
+      "ExamResultID": 76,
+      "StudentID": "S0019",
+      "SubjectCode": "ENG101",
+      "Mark": 77,
+      "Comment": "Excellent",
+      "id": "be38"
+    },
+    {
+      "ExamResultID": 77,
+      "StudentID": "S0020",
+      "SubjectCode": "HIS101",
+      "Mark": 64,
+      "Comment": "Excellent",
+      "id": "e2f6"
+    },
+    {
+      "ExamResultID": 78,
+      "StudentID": "S0020",
+      "SubjectCode": "ENG101",
+      "Mark": 78,
+      "Comment": "Needs improvement",
+      "id": "7ede"
+    },
+    {
+      "ExamResultID": 79,
+      "StudentID": "S0020",
+      "SubjectCode": "ENG101",
+      "Mark": 52,
+      "Comment": "Needs improvement",
+      "id": "06b4"
+    },
+    {
+      "ExamResultID": 80,
+      "StudentID": "S0020",
+      "SubjectCode": "CHEM101",
+      "Mark": 60,
+      "Comment": "Average",
+      "id": "ec0f"
+    },
+    {
+      "ExamResultID": 81,
+      "StudentID": "S0021",
+      "SubjectCode": "COMP101",
+      "Mark": 94,
+      "Comment": "Excellent",
+      "id": "4513"
+    },
+    {
+      "ExamResultID": 82,
+      "StudentID": "S0021",
+      "SubjectCode": "PHY101",
+      "Mark": 79,
+      "Comment": "Excellent",
+      "id": "c97e"
+    },
+    {
+      "ExamResultID": 83,
+      "StudentID": "S0021",
+      "SubjectCode": "COMP101",
+      "Mark": 92,
+      "Comment": "Good",
+      "id": "796a"
+    },
+    {
+      "ExamResultID": 84,
+      "StudentID": "S0021",
+      "SubjectCode": "HIS101",
+      "Mark": 62,
+      "Comment": "Needs improvement",
+      "id": "1f4b"
+    },
+    {
+      "ExamResultID": 85,
+      "StudentID": "S0022",
+      "SubjectCode": "CHEM101",
+      "Mark": 63,
+      "Comment": "Excellent",
+      "id": "8914"
+    },
+    {
+      "ExamResultID": 86,
+      "StudentID": "S0022",
+      "SubjectCode": "CHEM101",
+      "Mark": 82,
+      "Comment": "Needs improvement",
+      "id": "3948"
+    },
+    {
+      "ExamResultID": 87,
+      "StudentID": "S0022",
+      "SubjectCode": "CHEM101",
+      "Mark": 52,
+      "Comment": "Good",
+      "id": "ac49"
+    },
+    {
+      "ExamResultID": 88,
+      "StudentID": "S0022",
+      "SubjectCode": "COMP101",
+      "Mark": 66,
+      "Comment": "Average",
+      "id": "f497"
+    },
+    {
+      "ExamResultID": 89,
+      "StudentID": "S0023",
+      "SubjectCode": "COMP101",
+      "Mark": 91,
+      "Comment": "Good",
+      "id": "ac73"
+    },
+    {
+      "ExamResultID": 90,
+      "StudentID": "S0023",
+      "SubjectCode": "ENG101",
+      "Mark": 55,
+      "Comment": "Needs improvement",
+      "id": "c33b"
+    },
+    {
+      "ExamResultID": 91,
+      "StudentID": "S0023",
+      "SubjectCode": "CHEM101",
+      "Mark": 68,
+      "Comment": "Excellent",
+      "id": "33ef"
+    },
+    {
+      "ExamResultID": 92,
+      "StudentID": "S0023",
+      "SubjectCode": "PHY101",
+      "Mark": 61,
+      "Comment": "Excellent",
+      "id": "fa48"
+    },
+    {
+      "ExamResultID": 93,
+      "StudentID": "S0024",
+      "SubjectCode": "COMP101",
+      "Mark": 72,
+      "Comment": "Excellent",
+      "id": "9ccb"
+    },
+    {
+      "ExamResultID": 94,
+      "StudentID": "S0024",
+      "SubjectCode": "MATH101",
+      "Mark": 100,
+      "Comment": "Excellent",
+      "id": "e9b2"
+    },
+    {
+      "ExamResultID": 95,
+      "StudentID": "S0024",
+      "SubjectCode": "ENG101",
+      "Mark": 73,
+      "Comment": "Good",
+      "id": "4fcd"
+    },
+    {
+      "ExamResultID": 96,
+      "StudentID": "S0024",
+      "SubjectCode": "PHY101",
+      "Mark": 55,
+      "Comment": "Needs improvement",
+      "id": "47b3"
+    },
+    {
+      "ExamResultID": 97,
+      "StudentID": "S0025",
+      "SubjectCode": "MATH101",
+      "Mark": 81,
+      "Comment": "Good",
+      "id": "7311"
+    },
+    {
+      "ExamResultID": 98,
+      "StudentID": "S0025",
+      "SubjectCode": "PHY101",
+      "Mark": 97,
+      "Comment": "Needs improvement",
+      "id": "2b77"
+    },
+    {
+      "ExamResultID": 99,
+      "StudentID": "S0025",
+      "SubjectCode": "CHEM101",
+      "Mark": 83,
+      "Comment": "Good",
+      "id": "e4f2"
+    },
+    {
+      "ExamResultID": 100,
+      "StudentID": "S0025",
+      "SubjectCode": "MATH101",
+      "Mark": 81,
+      "Comment": "Needs improvement",
+      "id": "97d5"
+    },
+    {
+      "ExamResultID": 101,
+      "StudentID": "S0026",
+      "SubjectCode": "ENG101",
+      "Mark": 87,
+      "Comment": "Excellent",
+      "id": "df3c"
+    },
+    {
+      "ExamResultID": 102,
+      "StudentID": "S0026",
+      "SubjectCode": "MATH101",
+      "Mark": 54,
+      "Comment": "Needs improvement",
+      "id": "e865"
+    },
+    {
+      "ExamResultID": 103,
+      "StudentID": "S0026",
+      "SubjectCode": "PHY101",
+      "Mark": 83,
+      "Comment": "Average",
+      "id": "d9c8"
+    },
+    {
+      "ExamResultID": 104,
+      "StudentID": "S0026",
+      "SubjectCode": "COMP101",
+      "Mark": 96,
+      "Comment": "Average",
+      "id": "b741"
+    },
+    {
+      "ExamResultID": 105,
+      "StudentID": "S0027",
+      "SubjectCode": "PHY101",
+      "Mark": 66,
+      "Comment": "Average",
+      "id": "807f"
+    },
+    {
+      "ExamResultID": 106,
+      "StudentID": "S0027",
+      "SubjectCode": "HIS101",
+      "Mark": 74,
+      "Comment": "Good",
+      "id": "2e02"
+    },
+    {
+      "ExamResultID": 107,
+      "StudentID": "S0027",
+      "SubjectCode": "ENG101",
+      "Mark": 68,
+      "Comment": "Good",
+      "id": "0d72"
+    },
+    {
+      "ExamResultID": 108,
+      "StudentID": "S0027",
+      "SubjectCode": "MATH101",
+      "Mark": 73,
+      "Comment": "Excellent",
+      "id": "b132"
+    },
+    {
+      "ExamResultID": 109,
+      "StudentID": "S0028",
+      "SubjectCode": "HIS101",
+      "Mark": 83,
+      "Comment": "Needs improvement",
+      "id": "377b"
+    },
+    {
+      "ExamResultID": 110,
+      "StudentID": "S0028",
+      "SubjectCode": "PHY101",
+      "Mark": 53,
+      "Comment": "Excellent",
+      "id": "451e"
+    },
+    {
+      "ExamResultID": 111,
+      "StudentID": "S0028",
+      "SubjectCode": "COMP101",
+      "Mark": 72,
+      "Comment": "Excellent",
+      "id": "375d"
+    },
+    {
+      "ExamResultID": 112,
+      "StudentID": "S0028",
+      "SubjectCode": "ENG101",
+      "Mark": 95,
+      "Comment": "Excellent",
+      "id": "a801"
+    },
+    {
+      "ExamResultID": 113,
+      "StudentID": "S0029",
+      "SubjectCode": "ENG101",
+      "Mark": 81,
+      "Comment": "Good",
+      "id": "c188"
+    },
+    {
+      "ExamResultID": 114,
+      "StudentID": "S0029",
+      "SubjectCode": "HIS101",
+      "Mark": 65,
+      "Comment": "Good",
+      "id": "bb83"
+    },
+    {
+      "ExamResultID": 115,
+      "StudentID": "S0029",
+      "SubjectCode": "COMP101",
+      "Mark": 82,
+      "Comment": "Good",
+      "id": "67c1"
+    },
+    {
+      "ExamResultID": 116,
+      "StudentID": "S0029",
+      "SubjectCode": "PHY101",
+      "Mark": 69,
+      "Comment": "Needs improvement",
+      "id": "04ff"
+    },
+    {
+      "ExamResultID": 117,
+      "StudentID": "S0030",
+      "SubjectCode": "MATH101",
+      "Mark": 84,
+      "Comment": "Good",
+      "id": "4525"
+    },
+    {
+      "ExamResultID": 118,
+      "StudentID": "S0030",
+      "SubjectCode": "PHY101",
+      "Mark": 60,
+      "Comment": "Good",
+      "id": "9501"
+    },
+    {
+      "ExamResultID": 119,
+      "StudentID": "S0030",
+      "SubjectCode": "PHY101",
+      "Mark": 73,
+      "Comment": "Average",
+      "id": "feed"
+    },
+    {
+      "ExamResultID": 120,
+      "StudentID": "S0030",
+      "SubjectCode": "ENG101",
+      "Mark": 99,
+      "Comment": "Excellent",
+      "id": "afb5"
+    },
+    {
+      "ExamResultID": 121,
+      "StudentID": "S0031",
+      "SubjectCode": "HIS101",
+      "Mark": 77,
+      "Comment": "Needs improvement",
+      "id": "9a7e"
+    },
+    {
+      "ExamResultID": 122,
+      "StudentID": "S0031",
+      "SubjectCode": "ENG101",
+      "Mark": 94,
+      "Comment": "Excellent",
+      "id": "270d"
+    },
+    {
+      "ExamResultID": 123,
+      "StudentID": "S0031",
+      "SubjectCode": "MATH101",
+      "Mark": 97,
+      "Comment": "Average",
+      "id": "b2ff"
+    },
+    {
+      "ExamResultID": 124,
+      "StudentID": "S0031",
+      "SubjectCode": "CHEM101",
+      "Mark": 71,
+      "Comment": "Good",
+      "id": "c7b0"
+    },
+    {
+      "ExamResultID": 125,
+      "StudentID": "S0032",
+      "SubjectCode": "ENG101",
+      "Mark": 74,
+      "Comment": "Good",
+      "id": "118b"
+    },
+    {
+      "ExamResultID": 126,
+      "StudentID": "S0032",
+      "SubjectCode": "HIS101",
+      "Mark": 54,
+      "Comment": "Needs improvement",
+      "id": "b9ec"
+    },
+    {
+      "ExamResultID": 127,
+      "StudentID": "S0032",
+      "SubjectCode": "HIS101",
+      "Mark": 81,
+      "Comment": "Excellent",
+      "id": "2e41"
+    },
+    {
+      "ExamResultID": 128,
+      "StudentID": "S0032",
+      "SubjectCode": "CHEM101",
+      "Mark": 59,
+      "Comment": "Good",
+      "id": "78f3"
+    },
+    {
+      "ExamResultID": 129,
+      "StudentID": "S0033",
+      "SubjectCode": "MATH101",
+      "Mark": 51,
+      "Comment": "Needs improvement",
+      "id": "cb03"
+    },
+    {
+      "ExamResultID": 130,
+      "StudentID": "S0033",
+      "SubjectCode": "CHEM101",
+      "Mark": 68,
+      "Comment": "Needs improvement",
+      "id": "ccf8"
+    },
+    {
+      "ExamResultID": 131,
+      "StudentID": "S0033",
+      "SubjectCode": "ENG101",
+      "Mark": 63,
+      "Comment": "Average",
+      "id": "03e5"
+    },
+    {
+      "ExamResultID": 132,
+      "StudentID": "S0033",
+      "SubjectCode": "COMP101",
+      "Mark": 90,
+      "Comment": "Good",
+      "id": "3712"
+    },
+    {
+      "ExamResultID": 133,
+      "StudentID": "S0034",
+      "SubjectCode": "COMP101",
+      "Mark": 80,
+      "Comment": "Excellent",
+      "id": "803d"
+    },
+    {
+      "ExamResultID": 134,
+      "StudentID": "S0034",
+      "SubjectCode": "PHY101",
+      "Mark": 53,
+      "Comment": "Good",
+      "id": "f929"
+    },
+    {
+      "ExamResultID": 135,
+      "StudentID": "S0034",
+      "SubjectCode": "CHEM101",
+      "Mark": 96,
+      "Comment": "Good",
+      "id": "f832"
+    },
+    {
+      "ExamResultID": 136,
+      "StudentID": "S0034",
+      "SubjectCode": "ENG101",
+      "Mark": 92,
+      "Comment": "Excellent",
+      "id": "51a6"
+    },
+    {
+      "ExamResultID": 137,
+      "StudentID": "S0035",
+      "SubjectCode": "COMP101",
+      "Mark": 66,
+      "Comment": "Excellent",
+      "id": "dfd1"
+    },
+    {
+      "ExamResultID": 138,
+      "StudentID": "S0035",
+      "SubjectCode": "HIS101",
+      "Mark": 74,
+      "Comment": "Needs improvement",
+      "id": "2e9d"
+    },
+    {
+      "ExamResultID": 139,
+      "StudentID": "S0035",
+      "SubjectCode": "COMP101",
+      "Mark": 91,
+      "Comment": "Excellent",
+      "id": "a5b4"
+    },
+    {
+      "ExamResultID": 140,
+      "StudentID": "S0035",
+      "SubjectCode": "CHEM101",
+      "Mark": 70,
+      "Comment": "Average",
+      "id": "fdd5"
+    },
+    {
+      "ExamResultID": 141,
+      "StudentID": "S0036",
+      "SubjectCode": "MATH101",
+      "Mark": 64,
+      "Comment": "Average",
+      "id": "e6cd"
+    },
+    {
+      "ExamResultID": 142,
+      "StudentID": "S0036",
+      "SubjectCode": "CHEM101",
+      "Mark": 66,
+      "Comment": "Good",
+      "id": "3251"
+    },
+    {
+      "ExamResultID": 143,
+      "StudentID": "S0036",
+      "SubjectCode": "PHY101",
+      "Mark": 58,
+      "Comment": "Average",
+      "id": "5494"
+    },
+    {
+      "ExamResultID": 144,
+      "StudentID": "S0036",
+      "SubjectCode": "PHY101",
+      "Mark": 91,
+      "Comment": "Average",
+      "id": "602c"
+    },
+    {
+      "ExamResultID": 145,
+      "StudentID": "S0037",
+      "SubjectCode": "COMP101",
+      "Mark": 97,
+      "Comment": "Good",
+      "id": "ba8a"
+    },
+    {
+      "ExamResultID": 146,
+      "StudentID": "S0037",
+      "SubjectCode": "ENG101",
+      "Mark": 57,
+      "Comment": "Good",
+      "id": "6770"
+    },
+    {
+      "ExamResultID": 147,
+      "StudentID": "S0037",
+      "SubjectCode": "HIS101",
+      "Mark": 85,
+      "Comment": "Good",
+      "id": "1c94"
+    },
+    {
+      "ExamResultID": 148,
+      "StudentID": "S0037",
+      "SubjectCode": "CHEM101",
+      "Mark": 72,
+      "Comment": "Needs improvement",
+      "id": "15d1"
+    },
+    {
+      "ExamResultID": 149,
+      "StudentID": "S0038",
+      "SubjectCode": "PHY101",
+      "Mark": 97,
+      "Comment": "Needs improvement",
+      "id": "e2a6"
+    },
+    {
+      "ExamResultID": 150,
+      "StudentID": "S0038",
+      "SubjectCode": "PHY101",
+      "Mark": 88,
+      "Comment": "Good",
+      "id": "fe0a"
+    },
+    {
+      "ExamResultID": 151,
+      "StudentID": "S0038",
+      "SubjectCode": "PHY101",
+      "Mark": 87,
+      "Comment": "Needs improvement",
+      "id": "8143"
+    },
+    {
+      "ExamResultID": 152,
+      "StudentID": "S0038",
+      "SubjectCode": "PHY101",
+      "Mark": 79,
+      "Comment": "Needs improvement",
+      "id": "a6c5"
+    },
+    {
+      "ExamResultID": 153,
+      "StudentID": "S0039",
+      "SubjectCode": "HIS101",
+      "Mark": 78,
+      "Comment": "Good",
+      "id": "99bb"
+    },
+    {
+      "ExamResultID": 154,
+      "StudentID": "S0039",
+      "SubjectCode": "COMP101",
+      "Mark": 83,
+      "Comment": "Excellent",
+      "id": "72e9"
+    },
+    {
+      "ExamResultID": 155,
+      "StudentID": "S0039",
+      "SubjectCode": "HIS101",
+      "Mark": 92,
+      "Comment": "Average",
+      "id": "83df"
+    },
+    {
+      "ExamResultID": 156,
+      "StudentID": "S0039",
+      "SubjectCode": "CHEM101",
+      "Mark": 93,
+      "Comment": "Average",
+      "id": "36e4"
+    },
+    {
+      "ExamResultID": 157,
+      "StudentID": "S0040",
+      "SubjectCode": "PHY101",
+      "Mark": 69,
+      "Comment": "Good",
+      "id": "b51f"
+    },
+    {
+      "ExamResultID": 158,
+      "StudentID": "S0040",
+      "SubjectCode": "COMP101",
+      "Mark": 63,
+      "Comment": "Average",
+      "id": "1bed"
+    },
+    {
+      "ExamResultID": 159,
+      "StudentID": "S0040",
+      "SubjectCode": "HIS101",
+      "Mark": 64,
+      "Comment": "Excellent",
+      "id": "11f0"
+    },
+    {
+      "ExamResultID": 160,
+      "StudentID": "S0040",
+      "SubjectCode": "COMP101",
+      "Mark": 70,
+      "Comment": "Excellent",
+      "id": "866d"
+    },
+    {
+      "ExamResultID": 161,
+      "StudentID": "S0041",
+      "SubjectCode": "HIS101",
+      "Mark": 56,
+      "Comment": "Excellent",
+      "id": "673e"
+    },
+    {
+      "ExamResultID": 162,
+      "StudentID": "S0041",
+      "SubjectCode": "CHEM101",
+      "Mark": 84,
+      "Comment": "Average",
+      "id": "bc5a"
+    },
+    {
+      "ExamResultID": 163,
+      "StudentID": "S0041",
+      "SubjectCode": "HIS101",
+      "Mark": 78,
+      "Comment": "Excellent",
+      "id": "8fe4"
+    },
+    {
+      "ExamResultID": 164,
+      "StudentID": "S0041",
+      "SubjectCode": "MATH101",
+      "Mark": 77,
+      "Comment": "Good",
+      "id": "be54"
+    },
+    {
+      "ExamResultID": 165,
+      "StudentID": "S0042",
+      "SubjectCode": "MATH101",
+      "Mark": 54,
+      "Comment": "Needs improvement",
+      "id": "e5dc"
+    },
+    {
+      "ExamResultID": 166,
+      "StudentID": "S0042",
+      "SubjectCode": "HIS101",
+      "Mark": 70,
+      "Comment": "Excellent",
+      "id": "13f4"
+    },
+    {
+      "ExamResultID": 167,
+      "StudentID": "S0042",
+      "SubjectCode": "ENG101",
+      "Mark": 100,
+      "Comment": "Excellent",
+      "id": "134f"
+    },
+    {
+      "ExamResultID": 168,
+      "StudentID": "S0042",
+      "SubjectCode": "PHY101",
+      "Mark": 85,
+      "Comment": "Average",
+      "id": "b488"
+    },
+    {
+      "ExamResultID": 169,
+      "StudentID": "S0043",
+      "SubjectCode": "PHY101",
+      "Mark": 97,
+      "Comment": "Good",
+      "id": "2ccf"
+    },
+    {
+      "ExamResultID": 170,
+      "StudentID": "S0043",
+      "SubjectCode": "PHY101",
+      "Mark": 68,
+      "Comment": "Needs improvement",
+      "id": "c88f"
+    },
+    {
+      "ExamResultID": 171,
+      "StudentID": "S0043",
+      "SubjectCode": "PHY101",
+      "Mark": 75,
+      "Comment": "Needs improvement",
+      "id": "8a96"
+    },
+    {
+      "ExamResultID": 172,
+      "StudentID": "S0043",
+      "SubjectCode": "PHY101",
+      "Mark": 87,
+      "Comment": "Average",
+      "id": "7a15"
+    },
+    {
+      "ExamResultID": 173,
+      "StudentID": "S0044",
+      "SubjectCode": "ENG101",
+      "Mark": 78,
+      "Comment": "Good",
+      "id": "0a8e"
+    },
+    {
+      "ExamResultID": 174,
+      "StudentID": "S0044",
+      "SubjectCode": "COMP101",
+      "Mark": 89,
+      "Comment": "Excellent",
+      "id": "ec69"
+    },
+    {
+      "ExamResultID": 175,
+      "StudentID": "S0044",
+      "SubjectCode": "ENG101",
+      "Mark": 88,
+      "Comment": "Needs improvement",
+      "id": "89d0"
+    },
+    {
+      "ExamResultID": 176,
+      "StudentID": "S0044",
+      "SubjectCode": "HIS101",
+      "Mark": 73,
+      "Comment": "Average",
+      "id": "fe54"
+    },
+    {
+      "ExamResultID": 177,
+      "StudentID": "S0045",
+      "SubjectCode": "COMP101",
+      "Mark": 99,
+      "Comment": "Excellent",
+      "id": "b6e0"
+    },
+    {
+      "ExamResultID": 178,
+      "StudentID": "S0045",
+      "SubjectCode": "COMP101",
+      "Mark": 86,
+      "Comment": "Average",
+      "id": "c5dd"
+    },
+    {
+      "ExamResultID": 179,
+      "StudentID": "S0045",
+      "SubjectCode": "PHY101",
+      "Mark": 63,
+      "Comment": "Needs improvement",
+      "id": "1cc1"
+    },
+    {
+      "ExamResultID": 180,
+      "StudentID": "S0045",
+      "SubjectCode": "COMP101",
+      "Mark": 69,
+      "Comment": "Needs improvement",
+      "id": "51e6"
+    },
+    {
+      "ExamResultID": 181,
+      "StudentID": "S0046",
+      "SubjectCode": "COMP101",
+      "Mark": 63,
+      "Comment": "Good",
+      "id": "500c"
+    },
+    {
+      "ExamResultID": 182,
+      "StudentID": "S0046",
+      "SubjectCode": "COMP101",
+      "Mark": 68,
+      "Comment": "Good",
+      "id": "e8f4"
+    },
+    {
+      "ExamResultID": 183,
+      "StudentID": "S0046",
+      "SubjectCode": "HIS101",
+      "Mark": 91,
+      "Comment": "Good",
+      "id": "0b10"
+    },
+    {
+      "ExamResultID": 184,
+      "StudentID": "S0046",
+      "SubjectCode": "CHEM101",
+      "Mark": 52,
+      "Comment": "Needs improvement",
+      "id": "3445"
+    },
+    {
+      "ExamResultID": 185,
+      "StudentID": "S0047",
+      "SubjectCode": "MATH101",
+      "Mark": 65,
+      "Comment": "Good",
+      "id": "ff77"
+    },
+    {
+      "ExamResultID": 186,
+      "StudentID": "S0047",
+      "SubjectCode": "COMP101",
+      "Mark": 55,
+      "Comment": "Needs improvement",
+      "id": "cdf8"
+    },
+    {
+      "ExamResultID": 187,
+      "StudentID": "S0047",
+      "SubjectCode": "COMP101",
+      "Mark": 99,
+      "Comment": "Needs improvement",
+      "id": "ddbf"
+    },
+    {
+      "ExamResultID": 188,
+      "StudentID": "S0047",
+      "SubjectCode": "MATH101",
+      "Mark": 76,
+      "Comment": "Average",
+      "id": "726c"
+    },
+    {
+      "ExamResultID": 189,
+      "StudentID": "S0048",
+      "SubjectCode": "COMP101",
+      "Mark": 62,
+      "Comment": "Good",
+      "id": "8bf6"
+    },
+    {
+      "ExamResultID": 190,
+      "StudentID": "S0048",
+      "SubjectCode": "HIS101",
+      "Mark": 50,
+      "Comment": "Good",
+      "id": "6624"
+    },
+    {
+      "ExamResultID": 191,
+      "StudentID": "S0048",
+      "SubjectCode": "HIS101",
+      "Mark": 94,
+      "Comment": "Excellent",
+      "id": "73be"
+    },
+    {
+      "ExamResultID": 192,
+      "StudentID": "S0048",
+      "SubjectCode": "COMP101",
+      "Mark": 59,
+      "Comment": "Excellent",
+      "id": "fea6"
+    },
+    {
+      "ExamResultID": 193,
+      "StudentID": "S0049",
+      "SubjectCode": "CHEM101",
+      "Mark": 79,
+      "Comment": "Needs improvement",
+      "id": "5036"
+    },
+    {
+      "ExamResultID": 194,
+      "StudentID": "S0049",
+      "SubjectCode": "HIS101",
+      "Mark": 81,
+      "Comment": "Good",
+      "id": "07cc"
+    },
+    {
+      "ExamResultID": 195,
+      "StudentID": "S0049",
+      "SubjectCode": "MATH101",
+      "Mark": 61,
+      "Comment": "Good",
+      "id": "0ee3"
+    },
+    {
+      "ExamResultID": 196,
+      "StudentID": "S0049",
+      "SubjectCode": "PHY101",
+      "Mark": 93,
+      "Comment": "Good",
+      "id": "1c51"
+    },
+    {
+      "ExamResultID": 197,
+      "StudentID": "S0050",
+      "SubjectCode": "MATH101",
+      "Mark": 65,
+      "Comment": "Average",
+      "id": "001c"
+    },
+    {
+      "ExamResultID": 198,
+      "StudentID": "S0050",
+      "SubjectCode": "MATH101",
+      "Mark": 73,
+      "Comment": "Average",
+      "id": "cd31"
+    },
+    {
+      "ExamResultID": 199,
+      "StudentID": "S0050",
+      "SubjectCode": "MATH101",
+      "Mark": 91,
+      "Comment": "Average",
+      "id": "60c6"
+    },
+    {
+      "ExamResultID": 200,
+      "StudentID": "S0050",
+      "SubjectCode": "MATH101",
+      "Mark": 73,
+      "Comment": "Needs improvement",
+      "id": "a4fb"
+    },
+    {
+      "ExamResultID": 201,
+      "StudentID": "S0051",
+      "SubjectCode": "ENG101",
+      "Mark": 71,
+      "Comment": "Needs improvement",
+      "id": "e348"
+    },
+    {
+      "ExamResultID": 202,
+      "StudentID": "S0051",
+      "SubjectCode": "PHY101",
+      "Mark": 89,
+      "Comment": "Excellent",
+      "id": "7ab9"
+    },
+    {
+      "ExamResultID": 203,
+      "StudentID": "S0051",
+      "SubjectCode": "ENG101",
+      "Mark": 50,
+      "Comment": "Good",
+      "id": "1261"
+    },
+    {
+      "ExamResultID": 204,
+      "StudentID": "S0051",
+      "SubjectCode": "COMP101",
+      "Mark": 52,
+      "Comment": "Needs improvement",
+      "id": "2576"
+    },
+    {
+      "ExamResultID": 205,
+      "StudentID": "S0052",
+      "SubjectCode": "PHY101",
+      "Mark": 54,
+      "Comment": "Average",
+      "id": "87b4"
+    },
+    {
+      "ExamResultID": 206,
+      "StudentID": "S0052",
+      "SubjectCode": "CHEM101",
+      "Mark": 80,
+      "Comment": "Good",
+      "id": "9279"
+    },
+    {
+      "ExamResultID": 207,
+      "StudentID": "S0052",
+      "SubjectCode": "PHY101",
+      "Mark": 57,
+      "Comment": "Good",
+      "id": "9df5"
+    },
+    {
+      "ExamResultID": 208,
+      "StudentID": "S0052",
+      "SubjectCode": "MATH101",
+      "Mark": 82,
+      "Comment": "Average",
+      "id": "1317"
+    },
+    {
+      "ExamResultID": 209,
+      "StudentID": "S0053",
+      "SubjectCode": "MATH101",
+      "Mark": 56,
+      "Comment": "Excellent",
+      "id": "6968"
+    },
+    {
+      "ExamResultID": 210,
+      "StudentID": "S0053",
+      "SubjectCode": "COMP101",
+      "Mark": 51,
+      "Comment": "Needs improvement",
+      "id": "3e88"
+    },
+    {
+      "ExamResultID": 211,
+      "StudentID": "S0053",
+      "SubjectCode": "COMP101",
+      "Mark": 88,
+      "Comment": "Excellent",
+      "id": "01ec"
+    },
+    {
+      "ExamResultID": 212,
+      "StudentID": "S0053",
+      "SubjectCode": "COMP101",
+      "Mark": 65,
+      "Comment": "Good",
+      "id": "d666"
+    },
+    {
+      "ExamResultID": 213,
+      "StudentID": "S0054",
+      "SubjectCode": "ENG101",
+      "Mark": 96,
+      "Comment": "Average",
+      "id": "d77d"
+    },
+    {
+      "ExamResultID": 214,
+      "StudentID": "S0054",
+      "SubjectCode": "COMP101",
+      "Mark": 74,
+      "Comment": "Needs improvement",
+      "id": "6a54"
+    },
+    {
+      "ExamResultID": 215,
+      "StudentID": "S0054",
+      "SubjectCode": "COMP101",
+      "Mark": 88,
+      "Comment": "Needs improvement",
+      "id": "247d"
+    },
+    {
+      "ExamResultID": 216,
+      "StudentID": "S0054",
+      "SubjectCode": "MATH101",
+      "Mark": 93,
+      "Comment": "Needs improvement",
+      "id": "761f"
+    },
+    {
+      "ExamResultID": 217,
+      "StudentID": "S0055",
+      "SubjectCode": "CHEM101",
+      "Mark": 95,
+      "Comment": "Needs improvement",
+      "id": "2f85"
+    },
+    {
+      "ExamResultID": 218,
+      "StudentID": "S0055",
+      "SubjectCode": "PHY101",
+      "Mark": 67,
+      "Comment": "Average",
+      "id": "27cd"
+    },
+    {
+      "ExamResultID": 219,
+      "StudentID": "S0055",
+      "SubjectCode": "PHY101",
+      "Mark": 70,
+      "Comment": "Excellent",
+      "id": "08fc"
+    },
+    {
+      "ExamResultID": 220,
+      "StudentID": "S0055",
+      "SubjectCode": "ENG101",
+      "Mark": 54,
+      "Comment": "Needs improvement",
+      "id": "9410"
+    },
+    {
+      "ExamResultID": 221,
+      "StudentID": "S0056",
+      "SubjectCode": "COMP101",
+      "Mark": 74,
+      "Comment": "Needs improvement",
+      "id": "4fbe"
+    },
+    {
+      "ExamResultID": 222,
+      "StudentID": "S0056",
+      "SubjectCode": "ENG101",
+      "Mark": 70,
+      "Comment": "Needs improvement",
+      "id": "be6d"
+    },
+    {
+      "ExamResultID": 223,
+      "StudentID": "S0056",
+      "SubjectCode": "MATH101",
+      "Mark": 91,
+      "Comment": "Excellent",
+      "id": "0817"
+    },
+    {
+      "ExamResultID": 224,
+      "StudentID": "S0056",
+      "SubjectCode": "CHEM101",
+      "Mark": 92,
+      "Comment": "Average",
+      "id": "630d"
+    },
+    {
+      "ExamResultID": 225,
+      "StudentID": "S0057",
+      "SubjectCode": "MATH101",
+      "Mark": 95,
+      "Comment": "Needs improvement",
+      "id": "96d7"
+    },
+    {
+      "ExamResultID": 226,
+      "StudentID": "S0057",
+      "SubjectCode": "CHEM101",
+      "Mark": 54,
+      "Comment": "Good",
+      "id": "4900"
+    },
+    {
+      "ExamResultID": 227,
+      "StudentID": "S0057",
+      "SubjectCode": "MATH101",
+      "Mark": 53,
+      "Comment": "Average",
+      "id": "a86b"
+    },
+    {
+      "ExamResultID": 228,
+      "StudentID": "S0057",
+      "SubjectCode": "MATH101",
+      "Mark": 55,
+      "Comment": "Good",
+      "id": "4b14"
+    },
+    {
+      "ExamResultID": 229,
+      "StudentID": "S0058",
+      "SubjectCode": "HIS101",
+      "Mark": 50,
+      "Comment": "Average",
+      "id": "4f42"
+    },
+    {
+      "ExamResultID": 230,
+      "StudentID": "S0058",
+      "SubjectCode": "PHY101",
+      "Mark": 54,
+      "Comment": "Needs improvement",
+      "id": "cb0a"
+    },
+    {
+      "ExamResultID": 231,
+      "StudentID": "S0058",
+      "SubjectCode": "HIS101",
+      "Mark": 77,
+      "Comment": "Good",
+      "id": "25aa"
+    },
+    {
+      "ExamResultID": 232,
+      "StudentID": "S0058",
+      "SubjectCode": "PHY101",
+      "Mark": 51,
+      "Comment": "Excellent",
+      "id": "34dd"
+    },
+    {
+      "ExamResultID": 233,
+      "StudentID": "S0059",
+      "SubjectCode": "MATH101",
+      "Mark": 66,
+      "Comment": "Needs improvement",
+      "id": "3e10"
+    },
+    {
+      "ExamResultID": 234,
+      "StudentID": "S0059",
+      "SubjectCode": "MATH101",
+      "Mark": 96,
+      "Comment": "Excellent",
+      "id": "f5a2"
+    },
+    {
+      "ExamResultID": 235,
+      "StudentID": "S0059",
+      "SubjectCode": "PHY101",
+      "Mark": 58,
+      "Comment": "Excellent",
+      "id": "966e"
+    },
+    {
+      "ExamResultID": 236,
+      "StudentID": "S0059",
+      "SubjectCode": "ENG101",
+      "Mark": 87,
+      "Comment": "Good",
+      "id": "9ebb"
+    },
+    {
+      "ExamResultID": 237,
+      "StudentID": "S0060",
+      "SubjectCode": "PHY101",
+      "Mark": 100,
+      "Comment": "Excellent",
+      "id": "3d58"
+    },
+    {
+      "ExamResultID": 238,
+      "StudentID": "S0060",
+      "SubjectCode": "PHY101",
+      "Mark": 62,
+      "Comment": "Needs improvement",
+      "id": "72bb"
+    },
+    {
+      "ExamResultID": 239,
+      "StudentID": "S0060",
+      "SubjectCode": "CHEM101",
+      "Mark": 78,
+      "Comment": "Needs improvement",
+      "id": "e427"
+    },
+    {
+      "ExamResultID": 240,
+      "StudentID": "S0060",
+      "SubjectCode": "HIS101",
+      "Mark": 82,
+      "Comment": "Good",
+      "id": "ae2c"
+    },
+    {
+      "ExamResultID": 241,
+      "StudentID": "S0061",
+      "SubjectCode": "HIS101",
+      "Mark": 58,
+      "Comment": "Excellent",
+      "id": "7f9b"
+    },
+    {
+      "ExamResultID": 242,
+      "StudentID": "S0061",
+      "SubjectCode": "HIS101",
+      "Mark": 88,
+      "Comment": "Average",
+      "id": "1004"
+    },
+    {
+      "ExamResultID": 243,
+      "StudentID": "S0061",
+      "SubjectCode": "HIS101",
+      "Mark": 57,
+      "Comment": "Needs improvement",
+      "id": "97ae"
+    },
+    {
+      "ExamResultID": 244,
+      "StudentID": "S0061",
+      "SubjectCode": "PHY101",
+      "Mark": 52,
+      "Comment": "Excellent",
+      "id": "c80a"
+    },
+    {
+      "ExamResultID": 245,
+      "StudentID": "S0062",
+      "SubjectCode": "HIS101",
+      "Mark": 70,
+      "Comment": "Average",
+      "id": "768e"
+    },
+    {
+      "ExamResultID": 246,
+      "StudentID": "S0062",
+      "SubjectCode": "MATH101",
+      "Mark": 93,
+      "Comment": "Good",
+      "id": "b139"
+    },
+    {
+      "ExamResultID": 247,
+      "StudentID": "S0062",
+      "SubjectCode": "HIS101",
+      "Mark": 68,
+      "Comment": "Good",
+      "id": "b520"
+    },
+    {
+      "ExamResultID": 248,
+      "StudentID": "S0062",
+      "SubjectCode": "PHY101",
+      "Mark": 76,
+      "Comment": "Good",
+      "id": "484c"
+    },
+    {
+      "ExamResultID": 249,
+      "StudentID": "S0063",
+      "SubjectCode": "PHY101",
+      "Mark": 58,
+      "Comment": "Needs improvement",
+      "id": "ae87"
+    },
+    {
+      "ExamResultID": 250,
+      "StudentID": "S0063",
+      "SubjectCode": "HIS101",
+      "Mark": 51,
+      "Comment": "Excellent",
+      "id": "d285"
+    },
+    {
+      "ExamResultID": 251,
+      "StudentID": "S0063",
+      "SubjectCode": "PHY101",
+      "Mark": 82,
+      "Comment": "Needs improvement",
+      "id": "783b"
+    },
+    {
+      "ExamResultID": 252,
+      "StudentID": "S0063",
+      "SubjectCode": "CHEM101",
+      "Mark": 75,
+      "Comment": "Excellent",
+      "id": "705f"
+    },
+    {
+      "ExamResultID": 253,
+      "StudentID": "S0064",
+      "SubjectCode": "MATH101",
+      "Mark": 57,
+      "Comment": "Good",
+      "id": "8669"
+    },
+    {
+      "ExamResultID": 254,
+      "StudentID": "S0064",
+      "SubjectCode": "PHY101",
+      "Mark": 86,
+      "Comment": "Excellent",
+      "id": "efe1"
+    },
+    {
+      "ExamResultID": 255,
+      "StudentID": "S0064",
+      "SubjectCode": "ENG101",
+      "Mark": 73,
+      "Comment": "Average",
+      "id": "7dc9"
+    },
+    {
+      "ExamResultID": 256,
+      "StudentID": "S0064",
+      "SubjectCode": "MATH101",
+      "Mark": 100,
+      "Comment": "Good",
+      "id": "ab69"
+    },
+    {
+      "ExamResultID": 257,
+      "StudentID": "S0065",
+      "SubjectCode": "MATH101",
+      "Mark": 65,
+      "Comment": "Good",
+      "id": "b7a0"
+    },
+    {
+      "ExamResultID": 258,
+      "StudentID": "S0065",
+      "SubjectCode": "COMP101",
+      "Mark": 79,
+      "Comment": "Needs improvement",
+      "id": "8262"
+    },
+    {
+      "ExamResultID": 259,
+      "StudentID": "S0065",
+      "SubjectCode": "MATH101",
+      "Mark": 77,
+      "Comment": "Needs improvement",
+      "id": "6651"
+    },
+    {
+      "ExamResultID": 260,
+      "StudentID": "S0065",
+      "SubjectCode": "HIS101",
+      "Mark": 70,
+      "Comment": "Needs improvement",
+      "id": "f886"
+    },
+    {
+      "ExamResultID": 261,
+      "StudentID": "S0066",
+      "SubjectCode": "PHY101",
+      "Mark": 88,
+      "Comment": "Good",
+      "id": "6a09"
+    },
+    {
+      "ExamResultID": 262,
+      "StudentID": "S0066",
+      "SubjectCode": "PHY101",
+      "Mark": 80,
+      "Comment": "Good",
+      "id": "4c37"
+    },
+    {
+      "ExamResultID": 263,
+      "StudentID": "S0066",
+      "SubjectCode": "MATH101",
+      "Mark": 85,
+      "Comment": "Average",
+      "id": "bd84"
+    },
+    {
+      "ExamResultID": 264,
+      "StudentID": "S0066",
+      "SubjectCode": "HIS101",
+      "Mark": 100,
+      "Comment": "Needs improvement",
+      "id": "bb48"
+    },
+    {
+      "ExamResultID": 265,
+      "StudentID": "S0067",
+      "SubjectCode": "PHY101",
+      "Mark": 58,
+      "Comment": "Average",
+      "id": "63c3"
+    },
+    {
+      "ExamResultID": 266,
+      "StudentID": "S0067",
+      "SubjectCode": "MATH101",
+      "Mark": 61,
+      "Comment": "Average",
+      "id": "d7d7"
+    },
+    {
+      "ExamResultID": 267,
+      "StudentID": "S0067",
+      "SubjectCode": "CHEM101",
+      "Mark": 59,
+      "Comment": "Average",
+      "id": "9fb6"
+    },
+    {
+      "ExamResultID": 268,
+      "StudentID": "S0067",
+      "SubjectCode": "ENG101",
+      "Mark": 51,
+      "Comment": "Average",
+      "id": "09a5"
+    },
+    {
+      "ExamResultID": 269,
+      "StudentID": "S0068",
+      "SubjectCode": "PHY101",
+      "Mark": 59,
+      "Comment": "Good",
+      "id": "8598"
+    },
+    {
+      "ExamResultID": 270,
+      "StudentID": "S0068",
+      "SubjectCode": "CHEM101",
+      "Mark": 58,
+      "Comment": "Good",
+      "id": "172a"
+    },
+    {
+      "ExamResultID": 271,
+      "StudentID": "S0068",
+      "SubjectCode": "COMP101",
+      "Mark": 53,
+      "Comment": "Needs improvement",
+      "id": "e148"
+    },
+    {
+      "ExamResultID": 272,
+      "StudentID": "S0068",
+      "SubjectCode": "CHEM101",
+      "Mark": 72,
+      "Comment": "Needs improvement",
+      "id": "38e8"
+    },
+    {
+      "ExamResultID": 273,
+      "StudentID": "S0069",
+      "SubjectCode": "PHY101",
+      "Mark": 61,
+      "Comment": "Average",
+      "id": "84cb"
+    },
+    {
+      "ExamResultID": 274,
+      "StudentID": "S0069",
+      "SubjectCode": "PHY101",
+      "Mark": 81,
+      "Comment": "Needs improvement",
+      "id": "1922"
+    },
+    {
+      "ExamResultID": 275,
+      "StudentID": "S0069",
+      "SubjectCode": "COMP101",
+      "Mark": 93,
+      "Comment": "Good",
+      "id": "b26e"
+    },
+    {
+      "ExamResultID": 276,
+      "StudentID": "S0069",
+      "SubjectCode": "MATH101",
+      "Mark": 100,
+      "Comment": "Excellent",
+      "id": "43fd"
+    },
+    {
+      "ExamResultID": 277,
+      "StudentID": "S0070",
+      "SubjectCode": "HIS101",
+      "Mark": 75,
+      "Comment": "Good",
+      "id": "bc65"
+    },
+    {
+      "ExamResultID": 278,
+      "StudentID": "S0070",
+      "SubjectCode": "CHEM101",
+      "Mark": 68,
+      "Comment": "Excellent",
+      "id": "4b5b"
+    },
+    {
+      "ExamResultID": 279,
+      "StudentID": "S0070",
+      "SubjectCode": "PHY101",
+      "Mark": 53,
+      "Comment": "Excellent",
+      "id": "ad1d"
+    },
+    {
+      "ExamResultID": 280,
+      "StudentID": "S0070",
+      "SubjectCode": "MATH101",
+      "Mark": 76,
+      "Comment": "Average",
+      "id": "462f"
+    }
+  ]
+}
