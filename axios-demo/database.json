@@ -218,7 +218,7 @@
       "PhoneNumber": "0623523432",
       "Subjects": [
         "MATH101",
-        "ENG101"
+        "HIS101"
       ]
     }
   ],
@@ -533,15 +533,6 @@
       "PhoneNumber": 8153119064,
       "ClassCode": "CLS03",
       "id": "43bd"
-    },
-    {
-      "StudentID": "S0034",
-      "FirstName": "StudentF34",
-      "LastName": "StudentL34",
-      "Email": "student34@school.edu",
-      "PhoneNumber": 9838119926,
-      "ClassCode": "CLS03",
-      "id": "c24d"
     },
     {
       "StudentID": "S0035",
@@ -3099,6 +3090,14 @@
       "Mark": 76,
       "Comment": "Average",
       "id": "462f"
+    },
+    {
+      "id": "2079",
+      "ExamResultID": "12",
+      "StudentID": "S0001",
+      "SubjectCode": "MATH101",
+      "Mark": "50",
+      "Comment": "no gud"
     }
   ]
 }

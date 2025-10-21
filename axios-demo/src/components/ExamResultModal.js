@@ -12,6 +12,8 @@ const ExamResultModal = ({ student, show, onClose }) => {
   });
   const [examResults, setExamResults] = useState([]);
   const [subjects, setSubjects] = useState([]);
+  const [reload, setReload] = useState(false);
+  const [formAction, setFormAction] = useState("add");
 
   useEffect(() => {
     axios.get("http://localhost:9999/Subject").then((response) => {
@@ -22,7 +24,8 @@ const ExamResultModal = ({ student, show, onClose }) => {
       .then((response) => {
         setExamResults(response.data);
       });
-  }, [student]);
+    setReload(false);
+  }, [student, reload]);
   // Fetch exam results for the student
 
   const handleChange = (e) => {
@@ -33,10 +36,32 @@ const ExamResultModal = ({ student, show, onClose }) => {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("New exam result data:", formData);
-    alert(`Exam result ${formData.ExamResultID} added successfully!`);
+    if (formAction === "add") {
+      await axios.post("http://localhost:9999/ExamResult", formData);
+      setReload(true);
+    } else if (formAction === "update") {
+      let result = examResults.find(
+        (e) => e.ExamResultID === formData.ExamResultID
+      );
+      await axios.put(
+        `http://localhost:9999/ExamResult/${result.id}`,
+        formData
+      );
+      setReload(true);
+    }
+    setShowForm(false);
+  };
+
+  const handleUpdate = (examResult) => {
+    setFormAction("update");
+    setFormData(examResult);
+    setShowForm(true);
+  };
+
+  const handleAdd = () => {
+    setFormAction("add");
     setFormData({
       ExamResultID: "",
       StudentID: student?.StudentID || "",
@@ -44,23 +69,14 @@ const ExamResultModal = ({ student, show, onClose }) => {
       Mark: "",
       Comment: "",
     });
-    setShowForm(false);
-  };
-
-  const handleUpdate = (result) => {
-    console.log("Update exam result:", result);
-    alert(`Update exam result ${result.ExamResultID}`);
+    setShowForm(true);
   };
 
   const handleDelete = (result) => {
-    if (
-      window.confirm(
-        `Are you sure you want to delete exam result ${result.ExamResultID}?`
-      )
-    ) {
-      console.log("Delete exam result:", result);
-      alert(`Deleted exam result ${result.ExamResultID}`);
-    }
+    axios.delete(`http://localhost:9999/ExamResult/${result.id}`).then(() => {
+      alert(`Exam result ${result.id} deleted successfully!`);
+      setReload(true);
+    });
   };
 
   if (!show) return null;
@@ -90,13 +106,18 @@ const ExamResultModal = ({ student, show, onClose }) => {
           <div className="modal-body">
             {/* Add Button */}
             <div className="d-flex justify-content-end mb-3">
-              <button
-                className="btn btn-success"
-                onClick={() => setShowForm(!showForm)}
-              >
-                <i className="bi bi-plus-circle"></i>{" "}
-                {showForm ? "Cancel" : "Add New Result"}
-              </button>
+              {!showForm ? (
+                <button className="btn btn-success" onClick={() => handleAdd()}>
+                  <i className="bi bi-plus-circle"></i> Add New Exam Result
+                </button>
+              ) : (
+                <button
+                  className="btn btn-danger"
+                  onClick={() => setShowForm(!showForm)}
+                >
+                  <i className="bi bi-x-circle"></i> Cancel
+                </button>
+              )}
             </div>
 
             {/* Add Form */}
@@ -222,14 +243,14 @@ const ExamResultModal = ({ student, show, onClose }) => {
                             onClick={() => handleUpdate(result)}
                             title="Update"
                           >
-                            <i className="bi bi-pencil-square"></i>
+                            <i className="bi bi-pencil-square">Update</i>
                           </button>
                           <button
                             className="btn btn-sm btn-danger"
                             onClick={() => handleDelete(result)}
                             title="Delete"
                           >
-                            <i className="bi bi-trash"></i>
+                            <i className="bi bi-trash">Delete</i>
                           </button>
                         </td>
                       </tr>

@@ -127,15 +127,6 @@ const HomePage = ({ classes, onClassClick }) => {
                     <i className="bi bi-eye"></i> View
                   </button>
                   <button
-                    className="btn btn-warning btn-sm"
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      handleUpdate(classItem);
-                    }}
-                  >
-                    <i className="bi bi-pencil-square"></i> Update
-                  </button>
-                  <button
                     className="btn btn-danger btn-sm"
                     onClick={(e) => handleDelete(classItem, e)}
                   >
